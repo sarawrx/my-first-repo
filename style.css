@@ -1,0 +1,60 @@
+body {
+    font-family: calibri;
+    display: inline;
+  }
+  .logo img {
+    width: 23%;
+    padding: 1%;
+  }
+  .navigation {
+    display: flex;
+    background-color: lightyellow;
+    margin: auto;
+  }
+  .buttons {
+   margin: 10px 220px;
+  }
+  .buttons ul{
+    margin: auto;
+    display: flex;
+    list-style-type: none;
+  }
+  .buttons ul li {
+    padding: 10px;
+  }
+
+  .about {
+    display: inline;
+  }
+  p {
+    margin: 50px 250px;
+  }
+  .heroImg {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .download button {
+    height: 30px;
+    position: absolute;
+  }
+  .button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .footer {
+    background-color: lightyellow;
+  }
+  .footer ul {
+    height: 80px;
+    display: flex;
+    align-items: center;
+    list-style-type: none;
+    justify-content: center;
+  }
+  .footer ul li {
+    padding: 10px;
+  }
+  
+  
